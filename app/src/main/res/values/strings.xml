@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Matrimony</string>
+
+    <string name="app_name_new">abc</string>
+
+    <string-array name="city">
+        <item>Select City</item>
+        <item>Rajkot</item>
+        <item>Ahmedabad</item>
+        <item>Baroda</item>
+        <item>Surat</item>
+    </string-array>
+    <string name="title_activity_display_all">Registered Candidate</string>
+
+</resources>

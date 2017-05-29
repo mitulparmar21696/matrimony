@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.matrimony.design.SplashActivity">
+    <item
+        android:id="@+id/action_registration"
+        android:orderInCategory="100"
+        android:title="Registration"
+        android:icon="@mipmap/ic_person"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_person"
+        android:title="Search"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_favourite"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_person"
+        android:title="Favourite"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_all"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_person"
+        android:title="All"
+        app:showAsAction="ifRoom" />
+</menu>

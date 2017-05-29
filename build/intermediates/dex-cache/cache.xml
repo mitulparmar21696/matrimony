@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1_ccd81682849331a0d1ebde7d37dc512d0cd3805a.jar" />
+    </item>
+    <item
+        jar="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-23.1.1_9832e5b1bb01b2bd3b19f30cf21b555e152f0111.jar" />
+    </item>
+    <item
+        jar="F:\Android_3rd_Sem_2015\Matrimony2\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\pre-dexed\release\ksoap2-android-assembly-2.5.8-jar-with-dependencies_e2a505e278eb50bbf1607b8bf0def24ebad757a8.jar" />
+    </item>
+    <item
+        jar="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.1.1_7b3ce871d28c9e9e9d248d44ffd00ed7e9ec07e7.jar" />
+    </item>
+    <item
+        jar="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.1.1_667823d5e50cac1a8437ac0697edacdf743da7e5.jar" />
+    </item>
+    <item
+        jar="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1_57ab038da36453110afe026332d07ddd490180e3.jar" />
+    </item>
+    <item
+        jar="F:\Android_3rd_Sem_2015\Matrimony2\app\libs\sqliteassethelper-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\pre-dexed\release\sqliteassethelper-2.0.1_35cd994b94900810dfe07706eafca0e4aa54507a.jar" />
+    </item>
+    <item
+        jar="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.1.1_8c8edfaf1d13c3a142bbd06dc4876bcc32e5aa86.jar" />
+    </item>
+    <item
+        jar="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\Android_3rd_Sem_2015\Matrimony2\app\build\intermediates\pre-dexed\release\com.android.support-design-23.1.1_8ea2080e868432e8e0176bcd08ffcf49f2dd2846.jar" />
+    </item>
+
+</items>

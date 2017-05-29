@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:background="@color/grey"
+    tools:context=".Design.DashBoardActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:padding="5dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/dashboard_btn_Reg"
+            style="@style/dashboard_button"
+            android:drawableTop="@mipmap/ic_registration"
+            android:text="Registration"/>
+
+        <Button
+            android:id="@+id/dashboard_btn_search"
+            style="@style/dashboard_button"
+            android:drawableTop="@mipmap/ic_search"
+            android:text="Search"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/dashboard_btn_displayall"
+            style="@style/dashboard_button"
+            android:drawableTop="@mipmap/ic_list"
+            android:text="Display ALL"/>
+
+        <Button
+            android:id="@+id/dashboard_btn_favourite"
+            style="@style/dashboard_button"
+            android:text="Favourite"
+            android:drawableTop="@mipmap/ic_favorite"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/dashboard_btn_webservice"
+            style="@style/dashboard_button"
+            android:drawableTop="@mipmap/ic_list"
+            android:text="WebService"/>
+
+        <Button
+            android:id="@+id/dashboard_btn_extra12"
+            style="@style/dashboard_button"
+            android:visibility="invisible"
+            android:text="Favourite"
+            android:drawableTop="@mipmap/ic_favorite"/>
+
+    </LinearLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="right"
+        android:layout_weight="1"></TableLayout>
+
+</LinearLayout>
